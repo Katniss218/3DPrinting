@@ -47,6 +47,10 @@ The model is split up into multiple different parts, and consists of (bottom-to-
 * 
 * 1x Apollo-escape-tower
 
+To assemble the Saturn V you'll also need the following:
+
+* 18x 3mm-dowel
+
 ### Read-Before-Printing:
 
 I recommend using organic supports, if available.
@@ -55,7 +59,7 @@ Some of the .stl files are not necessarily oriented (rotated) optimally for prin
 
 - Tanks (the 2-piece ones)
     1. Split both pieces.
-    2. Place both pieces the domed side-up.
+    2. Place both pieces the domed side-up (i.e. flat side-down).
 
 - S-IC-heatshield
-    1. rotate it the sculpted side-up.
+    1. rotate it the sculpted side-up (i.e. flat side-down).
