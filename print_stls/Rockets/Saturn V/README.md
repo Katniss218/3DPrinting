@@ -47,9 +47,14 @@ The model is split up into multiple different parts, and consists of (bottom-to-
 * 
 * 1x Apollo-escape-tower
 
+And:
+* 18x 3mm-dowel
+
 To assemble the Saturn V you'll also need the following:
 
-* 18x 3mm-dowel
+* A pair of side-cutters to remove support material.
+* A file to clean up the seams.
+* CA Superglue (PLA).
 
 ### Read-Before-Printing:
 
